@@ -134,5 +134,3 @@ btnQuit = ttk.Button(frmBottom, text='Einde', command=lambda: exit(), style='Out
 btnQuit.pack(side='right')
 
 venster.mainloop()
-
-
